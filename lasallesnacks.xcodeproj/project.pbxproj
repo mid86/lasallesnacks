@@ -48,7 +48,6 @@
 		01213E7C2D4B16DA00BA8C8E /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		01213E802D4B16DA00BA8C8E /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		01213E822D4B16DA00BA8C8E /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
-		01213E9E2D4B1CA400BA8C8E /* lasallesnacks (iOS)-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "lasallesnacks (iOS)-Bridging-Header.h"; sourceTree = "<group>"; };
 		01F0CC342D4BA92600878D08 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 		01F0CC362D4BA9A200878D08 /* lasallesnacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lasallesnacks.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -101,7 +100,6 @@
 			children = (
 				01213E5E2D4B16DA00BA8C8E /* Assets.xcassets */,
 				01213E592D4B16D800BA8C8E /* lasallesnacks.xcdatamodeld */,
-				01213E9E2D4B1CA400BA8C8E /* lasallesnacks (iOS)-Bridging-Header.h */,
 				01F0CC342D4BA92600878D08 /* TestView.swift */,
 				01F0CC362D4BA9A200878D08 /* lasallesnacks.swift */,
 			);
